@@ -4,7 +4,7 @@ const path = require("path");
 
 module.exports = {
   config: {
-    name: "aiimage",
+    name: "aiximage",
     aliases: ["sdimg", "hfia"],
     version: "1.0",
     author: "You",
